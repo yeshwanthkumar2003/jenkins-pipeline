@@ -7,7 +7,7 @@
   
   <strong>Key Features</strong><br>
  
-
+  <ul>
     <li>Implement CI/CD pipelines with Jenkins</li>
     <li>Utilize AWS EC2 for hosting the website</li>
     <li>Integrate with GitHub webhooks for seamless code repository integration</li>
