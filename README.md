@@ -1,8 +1,8 @@
+![Jenkins project](https://user-images.githubusercontent.com/94180456/215402967-61745139-8d3e-484a-b5ab-0fcbe344dfda.jpeg)
 <h1 align="center">CI/CD Pipelines with Jenkins and AWS EC2</h1>
 
 <p align="center">
   <strong>Introduction</strong><br>
-  ![Jenkins project](https://user-images.githubusercontent.com/94180456/215402967-61745139-8d3e-484a-b5ab-0fcbe344dfda.jpeg)
   <p>This project demonstrates the implementation of Continuous Integration (CI) and Continuous Deployment (CD) pipelines using Jenkins and AWS EC2, along with integration with GitHub webhooks. The aim is to automate the deployment process of a commercial website and ensure seamless integration with the code repository on GitHub. </p>
   
   <strong>Key Features</strong><br>
