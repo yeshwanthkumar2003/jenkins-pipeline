@@ -1,6 +1,6 @@
 ![Jenkins project](https://user-images.githubusercontent.com/94180456/215402967-61745139-8d3e-484a-b5ab-0fcbe344dfda.jpeg)
 <h1 align="center">CI/CD Pipelines with Jenkins and AWS EC2</h1>
-<h3 align="center">Clouc and Devops Project</h3>
+<h3 align="center">Cloud and Devops Project</h3>
 
 
 <p align="center">
